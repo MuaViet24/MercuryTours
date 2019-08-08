@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="46218" started-at="2019-07-17T08:16:24Z" finished-at="2019-07-17T08:17:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="46218" started-at="2019-07-17T08:16:24Z" finished-at="2019-07-17T08:17:11Z">
+      <class name="com.MercuryTour.Test.HomePageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.MercuryTour.Test.HomePageTest@6debcae2]" name="setup" is-config="true" duration-ms="8320" started-at="2019-07-17T18:16:24Z" finished-at="2019-07-17T18:16:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="validatePageTitle()[pri:1, instance:com.MercuryTour.Test.HomePageTest@6debcae2]" name="validatePageTitle" duration-ms="56" started-at="2019-07-17T18:16:33Z" finished-at="2019-07-17T18:16:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePageTitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.MercuryTour.Test.HomePageTest@6debcae2]" name="tearDown" is-config="true" duration-ms="1322" started-at="2019-07-17T18:16:33Z" finished-at="2019-07-17T18:16:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.MercuryTour.Test.HomePageTest@6debcae2]" name="setup" is-config="true" duration-ms="5713" started-at="2019-07-17T18:16:34Z" finished-at="2019-07-17T18:16:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="validatePageURL()[pri:2, instance:com.MercuryTour.Test.HomePageTest@6debcae2]" name="validatePageURL" duration-ms="20" started-at="2019-07-17T18:16:40Z" finished-at="2019-07-17T18:16:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePageURL -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.MercuryTour.Test.HomePageTest@6debcae2]" name="tearDown" is-config="true" duration-ms="951" started-at="2019-07-17T18:16:40Z" finished-at="2019-07-17T18:16:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.MercuryTour.Test.HomePageTest@6debcae2]" name="setup" is-config="true" duration-ms="5447" started-at="2019-07-17T18:16:41Z" finished-at="2019-07-17T18:16:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="navigateFlightPage()[pri:3, instance:com.MercuryTour.Test.HomePageTest@6debcae2]" name="navigateFlightPage" duration-ms="1076" started-at="2019-07-17T18:16:46Z" finished-at="2019-07-17T18:16:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateFlightPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.MercuryTour.Test.HomePageTest@6debcae2]" name="tearDown" is-config="true" duration-ms="1081" started-at="2019-07-17T18:16:47Z" finished-at="2019-07-17T18:16:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.MercuryTour.Test.HomePageTest@6debcae2]" name="setup" is-config="true" duration-ms="5686" started-at="2019-07-17T18:16:48Z" finished-at="2019-07-17T18:16:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="navigateCruisePage()[pri:4, instance:com.MercuryTour.Test.HomePageTest@6debcae2]" name="navigateCruisePage" duration-ms="944" started-at="2019-07-17T18:16:54Z" finished-at="2019-07-17T18:16:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateCruisePage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.MercuryTour.Test.HomePageTest@6debcae2]" name="tearDown" is-config="true" duration-ms="898" started-at="2019-07-17T18:16:55Z" finished-at="2019-07-17T18:16:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.MercuryTour.Test.HomePageTest@6debcae2]" name="setup" is-config="true" duration-ms="5553" started-at="2019-07-17T18:16:56Z" finished-at="2019-07-17T18:17:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="navigateSignOnPage()[pri:5, instance:com.MercuryTour.Test.HomePageTest@6debcae2]" name="navigateSignOnPage" duration-ms="745" started-at="2019-07-17T18:17:01Z" finished-at="2019-07-17T18:17:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateSignOnPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.MercuryTour.Test.HomePageTest@6debcae2]" name="tearDown" is-config="true" duration-ms="912" started-at="2019-07-17T18:17:02Z" finished-at="2019-07-17T18:17:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.MercuryTour.Test.HomePageTest@6debcae2]" name="setup" is-config="true" duration-ms="5398" started-at="2019-07-17T18:17:03Z" finished-at="2019-07-17T18:17:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="navigateRegisterPage()[pri:6, instance:com.MercuryTour.Test.HomePageTest@6debcae2]" name="navigateRegisterPage" duration-ms="1104" started-at="2019-07-17T18:17:08Z" finished-at="2019-07-17T18:17:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateRegisterPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.MercuryTour.Test.HomePageTest@6debcae2]" name="tearDown" is-config="true" duration-ms="944" started-at="2019-07-17T18:17:10Z" finished-at="2019-07-17T18:17:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.MercuryTour.Test.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
